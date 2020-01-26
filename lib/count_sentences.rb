@@ -24,5 +24,8 @@ class String
 
     self.scan(/([a-zA-Z, ]+(\?+|\.+|!+))/).size
     
+
+    
   end	 
+  
 end 
